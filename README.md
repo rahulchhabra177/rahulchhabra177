@@ -26,7 +26,9 @@
 
 ## 📊 Github stats
 
-
+ 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rahul Chhabra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rahulchhabra177&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 **Languages and Tools:**
 
@@ -34,6 +36,7 @@
 
 
 
+  <br/>
 
 
 
