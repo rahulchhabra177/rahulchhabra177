@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/rahulchhabra177">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=051A5D&lines=Hi+I+am+Rahul+Chhabra;I+like+complex+problems;I+like+Challenges"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=051A5D&lines=Hi+I+am+Rahul+Chhabra;"></a>
 </p>
 
 
